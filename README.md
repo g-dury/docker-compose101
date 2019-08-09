@@ -23,7 +23,7 @@ Use this repository: [https://github.com/g-dury/docker-compose101] (https://gith
 Latest docker-compose version: 1.24.0
 
 1. Create our own docker-compose.yaml
-	* look at `template.yaml` and unerstand the different notions:
+	* look at `template.yaml` and understand the different notions:
 		* version
 		* services
 		* image/port/environment
